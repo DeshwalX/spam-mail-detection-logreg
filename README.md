@@ -55,4 +55,6 @@ This project is licensed under the [MIT License](LICENSE).
 ## 👤 Author
 
 - **Name:** Abhijeet Deshwal  
-- **GitHub:** [@DeshwalX](https://github.com/DeshwalX)
+- **GitHub:** [@DeshwalX](https://github.com/DeshwalX)  
+- **LinkedIn:** [Abhijeet Deshwal](https://www.linkedin.com/in/abhijeet-deshwal)  
+- **Email:** [abhijeetdeshwal@outlook.in](mailto:abhijeetdeshwal@outlook.in)
